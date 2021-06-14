@@ -1,8 +1,8 @@
 import React from 'react';
-import { BrowserRouter as Router, Swich, Route} from 'react-router-dom'
-import Login from './component/auth/Login'
-import NuevaCuenta from './component/auth/NuevaCuenta'
-import Proyectos from './component/proyectos/Proyectos'
+import { BrowserRouter as Router, Switch, Route} from 'react-router-dom'
+import Login from './components/auth/Login'
+import NuevaCuenta from './components/auth/NuevaCuenta'
+import Proyectos from './components/proyectos/Proyectos'
 
 function App() {
   return (
