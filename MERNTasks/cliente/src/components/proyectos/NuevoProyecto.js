@@ -42,7 +42,7 @@ const NuevoProyecto= () => {
       <button
         type="button"
         className="btn btn-block btn-primario"
-      >Nuevo Proyecto</button>
+      >Nuevo Proyecto x2</button>
 
     {
       formulario ?
